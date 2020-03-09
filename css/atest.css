@@ -1,0 +1,54 @@
+body {
+	margin: 0; 
+	font-family: Consolas, Calibri, Helvetica, Arial;
+	font-size: 18px;
+	line-height: 20px;
+	background-color: lemonchiffon}
+header {
+	background-color: F13838; 
+	text-align: center; 
+	padding-top: 30px; 
+	padding-bottom: 30px;}
+header h1 {
+	color: white; 
+	font-family: Goudy Stout, Helvetica, Arial, Calibri; 
+	font-size: 40px;}
+header img {
+	border-radius: 150px; 
+	width: 250px; 
+	border: 10px solid gold;}
+h2 {
+	font-family: 'Volkhov';
+	font-size: 30px;
+	color: FF0000;
+	margin: 40px 0;}
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px}
+main img{
+	max-width: 100%}
+a {
+	color: FF0000;}
+a:hover {
+	color: 000000;	
+	background-color: gold;}
+footer {
+	background-color: F13838; 
+	text-align: center;
+	color: white;
+	padding: 20px;}
+footer p {
+	margin: 0;}
+p.caption {
+	color: 696969;
+	font-style: italic;
+	margin-top: 0;}
+
+
+
+
+
+
+
+
